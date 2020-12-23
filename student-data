@@ -1,0 +1,3 @@
+cursor.execute('''INSERT INTO STUDENT(
+FIRST_NAME, LAST_NAME, ROLE-NUMBER, GRADES, MARKS) VALUES
+('Aarav', 'Yadav', 327432479, 'A+', 100)''')
